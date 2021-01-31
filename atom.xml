@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anhaof.github.io</id>
     <title>BTC BLOCK</title>
-    <updated>2021-01-31T21:02:56.465Z</updated>
+    <updated>2021-01-31T21:03:30.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://anhaof.github.io"/>
     <link rel="self" href="https://anhaof.github.io/atom.xml"/>
@@ -72,7 +72,7 @@
         <id>https://anhaof.github.io/post/shi-yong-ben-jiao-cheng-qing-zi-jue-da-shang/</id>
         <link href="https://anhaof.github.io/post/shi-yong-ben-jiao-cheng-qing-zi-jue-da-shang/">
         </link>
-        <updated>2021-01-31T16:00:00.000Z</updated>
+        <updated>2021-01-31T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>使用本教程请自觉打赏！</p>
 <p>我的BTC钱包地址：</p>
 <p>36XRdQsT7iX8UgmFpXSCHvHU98D7RdaCvL</p>
