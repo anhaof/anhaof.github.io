@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anhaof.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-01-31T18:13:57.387Z</updated>
+    <title>使用脚本撸BTC</title>
+    <updated>2021-01-31T18:27:14.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://anhaof.github.io"/>
     <link rel="self" href="https://anhaof.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>教程</subtitle>
     <logo>https://anhaof.github.io/images/avatar.png</logo>
     <icon>https://anhaof.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 使用脚本撸BTC</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://anhaof.github.io/post/hello-gridea/</id>
