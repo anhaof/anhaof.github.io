@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anhaof.github.io</id>
     <title>BTC BLOCK</title>
-    <updated>2021-01-31T20:38:37.946Z</updated>
+    <updated>2021-01-31T20:43:40.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://anhaof.github.io"/>
     <link rel="self" href="https://anhaof.github.io/atom.xml"/>
@@ -15,7 +15,7 @@
         <id>https://anhaof.github.io/post/localbitcoins-jiao-yi-suo-kai-jiao-ben-cha-jian-qia-jiao-yi-dao-bi-te-bi-jiao-cheng/</id>
         <link href="https://anhaof.github.io/post/localbitcoins-jiao-yi-suo-kai-jiao-ben-cha-jian-qia-jiao-yi-dao-bi-te-bi-jiao-cheng/">
         </link>
-        <updated>2021-01-22T11:04:41.000Z</updated>
+        <updated>2021-01-21T03:04:41.000Z</updated>
         <content type="html"><![CDATA[<p><strong>🔘来到这里，你已经一只脚迈进了富裕阶层，恭喜你！</strong></p>
 <h1 id="首先声明">首先声明：</h1>
 <ul>
@@ -51,13 +51,13 @@
 <h1 id="三存款并等待-3-次确认后约-10-分钟你会看到此界面">三：存款并等待 3 次确认后（约 10 分钟）你会看到此界面</h1>
 <figure data-type="image" tabindex="11"><img src="https://anhaof.github.io/post-images/1612123302259.jpg" alt="" loading="lazy"></figure>
 <p><strong>1.余额里面已经到账 0.31BTC<br>
-2.充值界面还有一笔 “incoming transactions”（转账正在处理），右边显示 “Undefined”（未定义的时间），卡在 0/3 处。</strong><br>
-#四： 当出现这个界面的时候我们关闭脚本，等待第二笔到账（大概10分钟）<br>
-<strong>第二笔到账后我们会看到钱包余额：</strong></p>
+2.充值界面还有一笔 “incoming transactions”（转账正在处理），右边显示 “Undefined”（未定义的时间），卡在 0/3 处。</strong></p>
+<h1 id="四-当出现这个界面的时候我们关闭脚本等待第二笔到账大概10分钟">四： 当出现这个界面的时候我们关闭脚本，等待第二笔到账（大概10分钟）</h1>
+<p><strong>第二笔到账后我们会看到钱包余额：</strong></p>
 <figure data-type="image" tabindex="12"><img src="https://anhaof.github.io/post-images/1612123699105.jpg" alt="" loading="lazy"></figure>
 <h1 id="五一笔存币卡成了两笔然后我们提币">五：一笔存币卡成了两笔！然后我们提币</h1>
 <figure data-type="image" tabindex="13"><img src="https://anhaof.github.io/post-images/1612123954832.jpg" alt="" loading="lazy"></figure>
-<h1 id="六提币成功">六：提币成功</h1>
+<h1 id="提币成功">提币成功</h1>
 <figure data-type="image" tabindex="14"><img src="https://anhaof.github.io/post-images/1612123998598.jpg" alt="" loading="lazy"></figure>
 <h1 id="查看你的钱包">查看你的钱包</h1>
 <figure data-type="image" tabindex="15"><img src="https://anhaof.github.io/post-images/1612124038186.png" alt="" loading="lazy"></figure>
