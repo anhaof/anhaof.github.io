@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anhaof.github.io</id>
     <title>BTC BLOCK</title>
-    <updated>2021-01-31T18:58:08.900Z</updated>
+    <updated>2021-01-31T19:30:35.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://anhaof.github.io"/>
     <link rel="self" href="https://anhaof.github.io/atom.xml"/>
@@ -10,6 +10,28 @@
     <logo>https://anhaof.github.io/images/avatar.png</logo>
     <icon>https://anhaof.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, BTC BLOCK</rights>
+    <entry>
+        <title type="html"><![CDATA[【localbitcoins交易所】开脚本插件卡交易盗比特币教程]]></title>
+        <id>https://anhaof.github.io/post/localbitcoins-jiao-yi-suo-kai-jiao-ben-cha-jian-qia-jiao-yi-dao-bi-te-bi-jiao-cheng/</id>
+        <link href="https://anhaof.github.io/post/localbitcoins-jiao-yi-suo-kai-jiao-ben-cha-jian-qia-jiao-yi-dao-bi-te-bi-jiao-cheng/">
+        </link>
+        <updated>2021-01-29T03:04:41.000Z</updated>
+        <content type="html"><![CDATA[<p><em>🔘来到这里，你已经一只脚迈进了富裕阶层，恭喜你！</em></p>
+<h2 id="首先声明">首先声明：</h2>
+<ul>
+<li>此方法适用于任何高于 0.1BTC 的金额【2021 年 2 月 1 日更新】</li>
+<li>我们将在一个叫 localbitcoins 的网站上使用一个‘突破利用程序’，让我们的一笔存币变成两笔</li>
+<li>Localbitcoins 是 100％合法的网站，如果您不相信我，只需在 Google 上搜索即可</li>
+<li>如果你了解比特币，你也应该知道这个平台，他是非常著名的比特币场外交易平台<br>
+<img src="https://anhaof.github.io/post-images/1612121016417.png" alt="" loading="lazy"></li>
+</ul>
+<h2 id="操作流程">操作流程：</h2>
+<h1 id="一安装-tampermonkey-chrome-扩展程序">一：安装 “Tampermonkey” Chrome 扩展程序。</h1>
+<p>我不确定此扩展程序是否适用于其他浏览器，因此建议使用 Google Chrome 浏览器进行此方法。<br>
+这是插件的链接：https://chrome.google.com/webstore/search/tampermonkey?h1=en<br>
+<img src="https://anhaof.github.io/post-images/1612121311903.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://anhaof.github.io/post/hello-gridea/</id>
