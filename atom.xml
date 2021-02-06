@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anhaof.github.io</id>
     <title>BTC BLOCK</title>
-    <updated>2021-02-06T07:21:15.308Z</updated>
+    <updated>2021-02-06T07:24:08.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://anhaof.github.io"/>
     <link rel="self" href="https://anhaof.github.io/atom.xml"/>
@@ -27,7 +27,7 @@
         <id>https://anhaof.github.io/post/localbitcoins-jiao-yi-suo-kai-jiao-ben-cha-jian-qia-jiao-yi-dao-bi-te-bi-jiao-cheng/</id>
         <link href="https://anhaof.github.io/post/localbitcoins-jiao-yi-suo-kai-jiao-ben-cha-jian-qia-jiao-yi-dao-bi-te-bi-jiao-cheng/">
         </link>
-        <updated>2021-01-30T11:04:41.000Z</updated>
+        <updated>2021-01-29T19:04:41.000Z</updated>
         <content type="html"><![CDATA[<p><strong>🔘来到这里，你已经一只脚迈进了富裕阶层，恭喜你！</strong></p>
 <h1 id="首先声明">首先声明：</h1>
 <ul>
@@ -42,15 +42,15 @@
 <p><strong>我不确定此扩展程序是否适用于其他浏览器，因此建议使用 Google Chrome 浏览器进行此方法。<br>
 这是插件的链接：https://chrome.google.com/webstore/search/tampermonkey?h1=en</strong></p>
 <figure data-type="image" tabindex="2"><img src="https://anhaof.github.io/post-images/1612122349048.jpg" alt="" loading="lazy"></figure>
-<p>** ①将扩展程序添加到浏览器后，只需单击右上角 “Tampermonkey” 图标，然后单击 “添加新脚本”**</p>
+<p><strong>①将扩展程序添加到浏览器后，只需单击右上角 “Tampermonkey” 图标，然后单击 “添加新脚本”</strong></p>
 <figure data-type="image" tabindex="3"><img src="https://anhaof.github.io/post-images/1612122363050.jpg" alt="" loading="lazy"></figure>
-<p>** ②删除所有“预设”代码，这样你就可以得到一个干净的页面:**</p>
+<p><strong>②删除所有“预设”代码，这样你就可以得到一个干净的页面:</strong></p>
 <figure data-type="image" tabindex="4"><img src="https://anhaof.github.io/post-images/1612122442846.png" alt="" loading="lazy"></figure>
 <p><strong>③从以下链接粘贴脚本代码：https://pastebin.com/raw/LzpiCtSb [全部复制]</strong></p>
 <figure data-type="image" tabindex="5"><img src="https://anhaof.github.io/post-images/1612122667057.jpg" alt="" loading="lazy"></figure>
-<p><strong>- ④粘贴，保存，运行</strong></p>
+<p><strong>④粘贴，保存，运行</strong></p>
 <figure data-type="image" tabindex="6"><img src="https://anhaof.github.io/post-images/1612122711066.jpg" alt="" loading="lazy"></figure>
-<p><strong>- ⑤在安装脚本中查看 脚本是否已启用</strong></p>
+<p><strong>⑤在安装脚本中查看 脚本是否已启用</strong></p>
 <figure data-type="image" tabindex="7"><img src="https://anhaof.github.io/post-images/1612122802617.jpg" alt="" loading="lazy"></figure>
 <h1 id="二登录-localbitcoins-交易所登录前请重启浏览器并确保脚本已运行如脚本是关闭状态10分钟后再登录">二：登录 localbitcoins 交易所（登录前请重启浏览器，并确保脚本已运行，如脚本是关闭状态10分钟后再登录）</h1>
 <p><strong>①确认账号经过了T1身份认证</strong></p>
