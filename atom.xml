@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anhaof.github.io</id>
     <title>www.LuBTC.tk</title>
-    <updated>2021-05-01T01:25:50.445Z</updated>
+    <updated>2021-05-01T01:30:20.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://anhaof.github.io"/>
     <link rel="self" href="https://anhaof.github.io/atom.xml"/>
-    <subtitle>我们将在一个叫 localbitcoins 的网站上使用一个‘突破利用程序’，让我们的一笔存币变成两笔</subtitle>
+    <subtitle>我们将在一个叫 localbitcoins 的网站上使用一个‘突破利用程序’，让我们的一笔存币变成两笔，利润0.02-0.5btc，利润自觉分我一半谢谢！</subtitle>
     <logo>https://anhaof.github.io/images/avatar.png</logo>
     <icon>https://anhaof.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, www.LuBTC.tk</rights>
